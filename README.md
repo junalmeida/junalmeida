@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://dev.to/markjunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="markjunz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/markjunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markjunz" height="30" width="40" /></a>
+<a rel="me" href="https://mastodon.social/@junalmeida"><img align="center" src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/icons/favicon-48x48.png" alt="junalmeida" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
